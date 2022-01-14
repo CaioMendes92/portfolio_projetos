@@ -1,0 +1,109 @@
+1. Boas Vindas
+Olá, seja bem-vindo (a) ao meu portfólio de projetos de Ciência de Dados.
+Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio
+utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados
+públicos.
+Você vai encontrar também: Minhas experiências profissionais, habilidades,
+ferramentas e conceitos envolvendo a Ciência de Dados.
+Sinta-se à vontade para entrar em contato através dos links no final da página.
+
+Sobre mim
+Meu nome é Caio Mendes e tenho 29 anos. Sou formado em Física e tenho doutorado na área de computação quântica pela Universidade Federal de Alagoas. Atualmente trabalho como programador em uma empresa de marketing digital.
+Atualmente, trabalho na criação e organização de banco de dados, sendo utilizado um banco não relacional (MongoDB).
+Além disso, sou responsável por geração de insights a partir de dados e criação de dashboards usando PowerBI.
+Estou buscando uma oportunidade de migração de carreira para trabalhar profissionalmente como Cientista de
+Dados para melhorar a tomada de decisão da empresa, através da construção de
+soluções usando dados.
+
+Habilidades
+Linguagens de Programação e Banco de Dados
+Python com foco em análise de dados.
+SQL para extração de dados
+Banco de Dados SQLite, Postres, MySQL e MongoDB.
+
+Estatística e Machine Learning
+Estatística descritiva
+Algoritmos de Regressão, Classificação, Clusterização
+Técnicas de balanceamento dos dados, seleção de atributos e redução de
+dimensionalidade
+
+Métricas de performance dos algoritmos ( RMSE, MAE, MAPE, Confusion Matrix)
+Pacotes de Machine Learning: Sklearn e Scipy.
+
+Visualização de Dados
+Matplotlib, Seaborn e Plotly.
+Power BI, Tableau e Data Studio.
+
+Engenharia de Software
+Git, Github, Gitlab e Virtual Environment
+Streamlit, Flask, Python API's.
+Cloud Heroku
+
+Experiências
+1 Projeto completos de Ciência de Dados
+Construção de soluções de dados para problemas de negócio, próximos dos desafios
+reais das empresas, utilizando dados públicos de competições de Ciência de Dados,
+onde abordei o problema desde a concepção do desafio de negócio até a
+publicação do algoritmo treinado em produção, utilizando ferramentas de Cloud
+Computing.
+
+1 ano como programador
+Organizar o banco de dados sendo utilizado um banco não relacional
+(MongoDB). Geração de Insights e criação de Dashboards em PowerBI a partir destes
+insights.
+
+20+ Cursos Extra Curriculares
+Cursos voltado para área de ciência de dados:
+
+Alura – Data Science: Primeiros passos.
+Alura – Python para Data Science: Funções, Pacotes e Pandas Básico.
+Alura – Python para Data Science: Introdução a linguagem e Numpy.
+Alura – Python Pandas: Tratando e analisando dados.
+Alura – Pandas: Formatos diferentes de entrada e saída (IO)
+Alura – Estatística com Python parte 1: Frequências e Medidas.
+Alura – Estatística com Python parte 2: Probabilidade e Amostragem.
+Alura – Machine Learning: Introdução a classificação com SKLearn.
+Alura – Machine Learning: Lidando com dados de muitas dimensões.
+Alura – Regressão Linear: Testando Relações e Prevendo Resultados.
+Alura – Machine Learning: Validação de Modelos.
+Alura – Machine Learning Parte 1: Otimização de modelos através de hiperparâmetros.
+Alura – Machine Learning Parte 2: Otimização com exploração aleatória.
+Alura – Machine Learning: Introdução a sistemas de recomendação em Python.
+Alura – Machine Learning: Introdução a algoritmos não supervisionados.
+Alura – Deep Learning parte 1: Introdução com Keras.
+Alura – Deep Learning parte 2: Como a rede aprende.
+Alura – PostgreSQL: Primeiros passos com SQL.
+Alura – MongoDB: Uma alternativa aos bancos relacionais tradicionais.
+Alura – Data Analytics: Machine Learning no Marketing Digital.
+DataCamp – Introduction to Airflow in Python.
+ComunidadeDS – Curso prático de desenvolvimento de projetos em ciência de dados.
+
+4 anos como aluno de doutorado em Física
+Publicação de artigos científicos na área de computação quântica e informação quântica.
+
+Artigos: https://scholar.google.com/citations?hl=pt-BR&user=Eoc-AtQAAAAJ
+
+
+Projetos em Ciência de Dados
+Predição de vendas para as próximas seis semanas usando o algoritmo de regressão XGboost
+
+Eu usei Python, Análise de dados e técnicas de Machine Learning para encontrar uma solução que prevesse os preços de cada loja nas próximas seis semanas.
+E o resultado dessa solução, caso fosse implementada, seria de mais de $ 200MM de dólares de receita.
+
+As ferramentas utilizadas foram:
+Git e Github
+Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Boruta, Sklearn, XGBoost, Flask
+Jupyter Notebook
+Heroku Cloud
+
+Identificação de imóveis para compra e revenda a fim de
+maximizar o lucro
+Identificação de imóveis abaixo do preço médio de venda e definição do preço ideal de
+revenda, a partir de uma análise exploratória de dados em Python
+
+As ferramentas utilizadas foram:
+Python, Pandas, Numpy e Seaborn
+Anaconda, Pycharm e Jupyter Notebook
+Mapas interativos com Plotly e Folium
+Heroku Cloud
+Streamlit Python framework web
